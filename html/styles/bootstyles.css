@@ -1,0 +1,84 @@
+/*Jacob Dow 12/10/2021*/
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #d1d1d1;
+}
+
+.common{
+    text-align: center;
+}
+
+.header{
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+}
+
+.tableau{
+    top: 114px;
+    left: 5px;
+    right: 5px;
+    bottom: 64px;
+    padding-bottom: 10px;
+}
+
+.footer{
+    left: 5px;
+    right: 5px;
+    bottom: 5px;
+    height: 30px;
+}
+
+.links{
+    text-decoration: underline;
+    color: white;
+}
+
+.headalign{
+    text-align: right;
+}
+
+.title{
+    text-align: center;
+    color: white;
+    font-size: 45px;
+    font-family: papyrus;
+    font-weight: bold;
+    background-color: rgb(63, 63, 138);
+}
+
+a:hover{
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.footstyle{
+    text-align: center;
+    font-size: 12px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position:fixed;
+    color: white;
+    background-color: rgb(63, 63, 138);
+}
+
+.tablink{
+    color: white;
+}
+
+.graphs{
+    width: 700px;
+    display: inline-block;
+}
+
+.caption{
+    background-color:black;
+    color: white;
+    font-size: 16px;
+    padding: 5px;
+}
+
+.topback{
+    background-color: rgb(63, 63, 138);
+}
